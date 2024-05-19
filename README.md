@@ -25,3 +25,6 @@ npm run dev
 
 The app should be running on http://localhost:5173
 
+<img width="835" alt="Screenshot 2024-05-16 at 12 54 26 PM" src="https://github.com/Ramnath-Karthikesan/lexical-track-changes/assets/118205079/9b4972de-0d84-4344-9cf6-30c1ecdf8e57">
+
+
